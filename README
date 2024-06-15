@@ -1,0 +1,12 @@
+Work in progress My Little Pony 2d top-down RPG game.
+Sorry for the lack of documentation and messy code.
+
+Created on Linux with Python 3.10.12, requires pygame.
+
+Both pony sprite sheets were created by ZEkA10000 on deviantart. They replied to a comment, saying "Yes, you can use it for free if you'll credit me," so I assumed it was OK to use it here.
+
+All the code is free to use (except the pony sprites because those arent mine)
+The tile images are mine, and you can use them without credit (but they are bad)
+If you use anything I made, please make that free and open source as well.
+
+My Little Pony is owned by Hasbro.
